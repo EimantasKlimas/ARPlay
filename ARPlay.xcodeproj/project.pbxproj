@@ -20,6 +20,7 @@
 		538EB8F82BCC5A0D00AEBF2D /* DebugARView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 538EB8F72BCC5A0D00AEBF2D /* DebugARView.swift */; };
 		538EB8FC2BCC5C9200AEBF2D /* ExperienceView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 538EB8FB2BCC5C9200AEBF2D /* ExperienceView.swift */; };
 		538EB8FE2BCC5CB000AEBF2D /* DebugOptionListViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 538EB8FD2BCC5CB000AEBF2D /* DebugOptionListViewModel.swift */; };
+		53902A6C2BDD36F6006DCAFC /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 53902A6B2BDD36F6006DCAFC /* README.md */; };
 		53944BFF2BCD74E300B76DCD /* DebugOption.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53944BFE2BCD74E300B76DCD /* DebugOption.swift */; };
 		53944C012BCD7EB000B76DCD /* DebugCoordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53944C002BCD7EB000B76DCD /* DebugCoordinator.swift */; };
 /* End PBXBuildFile section */
@@ -39,6 +40,7 @@
 		538EB8F72BCC5A0D00AEBF2D /* DebugARView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DebugARView.swift; sourceTree = "<group>"; };
 		538EB8FB2BCC5C9200AEBF2D /* ExperienceView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExperienceView.swift; sourceTree = "<group>"; };
 		538EB8FD2BCC5CB000AEBF2D /* DebugOptionListViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DebugOptionListViewModel.swift; sourceTree = "<group>"; };
+		53902A6B2BDD36F6006DCAFC /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		53944BFE2BCD74E300B76DCD /* DebugOption.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DebugOption.swift; sourceTree = "<group>"; };
 		53944C002BCD7EB000B76DCD /* DebugCoordinator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DebugCoordinator.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -73,6 +75,7 @@
 		538EB8D82BCC59A200AEBF2D = {
 			isa = PBXGroup;
 			children = (
+				53902A6B2BDD36F6006DCAFC /* README.md */,
 				538EB8E32BCC59A200AEBF2D /* ARPlay */,
 				538EB8E22BCC59A200AEBF2D /* Products */,
 			);
@@ -214,6 +217,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				53902A6C2BDD36F6006DCAFC /* README.md in Resources */,
 				5314C0372BD0267F00864ED8 /* CosmonautSuit_en.reality in Resources */,
 				5314C0352BD0267F00864ED8 /* hab_en.reality in Resources */,
 				538EB8EC2BCC59A400AEBF2D /* Preview Assets.xcassets in Resources */,
